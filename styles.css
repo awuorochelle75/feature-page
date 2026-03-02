@@ -1,0 +1,19 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    text-align:center;
+}
+
+.feature-card {
+    border:2px solid gray;
+    padding:20px;
+    display:inline-block;
+    border-radius:10px;
+    width:40%;
+    max-width:400px;
+    margin:10px 10px;
+    box-shadow:2px 3px 4px gray;
+    text-align:center;
+}
