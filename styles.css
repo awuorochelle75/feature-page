@@ -12,8 +12,16 @@ h1 {
     display:inline-block;
     border-radius:10px;
     width:40%;
-    max-width:400px;
-    margin:10px 10px;
+    max-width:250px;
+    margin:10px auto 10px auto;
     box-shadow:2px 3px 4px gray;
     text-align:center;
+}
+
+.feature-card:hover {
+    border-color:goldenrod;
+    box-shadow:0 0 10px goldenrod;
+    cursor:pointer;
+    transition:all 0.3s;
+
 }
