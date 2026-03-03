@@ -8,12 +8,12 @@ h1 {
 
 .feature-card {
     border:2px solid gray;
-    padding:20px;
+    padding:35px;
     display:inline-block;
     border-radius:10px;
-    width:40%;
-    max-width:250px;
-    margin:10px auto 10px auto;
+    width:45%;
+    max-width:350px;
+    margin:10px;
     box-shadow:2px 3px 4px gray;
     text-align:center;
 }
