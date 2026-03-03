@@ -36,7 +36,14 @@ input[type="checkbox"] {
 
 input[type="checkbox"]:checked {
     background-color:goldenrod;
-    border-color: goldenrod;;
+    border-color: goldenrod;
+    text-align:center;
 
+}
+
+input[type="checkbox"]:checked::after {
+    content:"\2713 ";
+    color:white;
+    text-align:center;
 }
 
