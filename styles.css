@@ -1,8 +1,9 @@
 body {
-    background-color: whitesmoke;
+    background-color: #EEEEEE;
 }
 .header-section{
     text-align: right;
+    margin-top: 20px;
 }
 
  a {
