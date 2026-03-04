@@ -1,9 +1,26 @@
 body {
     background-color: whitesmoke;
 }
+.header-section{
+    text-align: right;
+}
 
+ a {
+    text-decoration: none;
+    padding:35px;
+    font-size: medium;
+    justify-content: right;
+   
+}
+
+a:hover{
+    color:goldenrod;
+    transition: all 0.5s;
+
+}
 h1 {
     text-align:center;
+    margin-top: 60px;
 }
 
 .feature-card {
