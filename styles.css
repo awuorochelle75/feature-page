@@ -11,6 +11,8 @@ body {
     padding:35px;
     font-size: medium;
     justify-content: right;
+    font-size: 18px;
+    color:darkgreen;
    
 }
 
@@ -22,6 +24,7 @@ a:hover{
 h1 {
     text-align:center;
     margin-top: 60px;
+    color:darkgreen;
 }
 
 .feature-card {
