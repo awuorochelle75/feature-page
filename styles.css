@@ -68,8 +68,5 @@ input[type="checkbox"]:checked::after {
     text-align:center;
 }
 
-.header-section {
-    background-color: aliceblue;
-}
 
 
