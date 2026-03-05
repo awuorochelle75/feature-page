@@ -6,7 +6,7 @@ body {
     margin-top: 20px;
 }
 
- a {
+ nav a {
     text-decoration: none;
     padding:35px;
     font-size: medium;
@@ -66,5 +66,9 @@ input[type="checkbox"]:checked::after {
     content:"\2713 ";
     color:white;
     text-align:center;
+}
+
+.header-section {
+    background-color: aliceblue;
 }
 
