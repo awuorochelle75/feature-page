@@ -23,7 +23,6 @@ a:hover{
 }
 h1 {
     text-align:center;
-    margin-top: 60px;
     color:darkgreen;
 }
 
@@ -85,11 +84,22 @@ label,input {
     border:2px solid black;
     box-shadow: 3px 4px 5px gray;
     background-color: white;
-    border-radius:5px;
+    border-radius:15px;
     max-width: 600px;
-    margin:auto;
+    margin:40px auto;
+    padding:15px;
+   
 }
-
+ .form-btn {
+    display:block;
+    margin:15px auto;
+    width:30%;
+    padding:5px;
+    border-radius: 10px;
+    background-color: darkgreen;
+    color:white;
+    font-size: 14px;
+ }
 
 
 
