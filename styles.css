@@ -80,6 +80,14 @@ label,input {
 
 }
 
+label {
+    font-style: oblique;
+    font-weight: bold;
+    
+}
+
+
+
 .contact-form {
     border:2px solid black;
     box-shadow: 3px 4px 5px gray;
@@ -99,6 +107,7 @@ label,input {
     background-color: darkgreen;
     color:white;
     font-size: 14px;
+    font-style:oblique ;
  }
 
 
