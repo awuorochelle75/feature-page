@@ -76,7 +76,12 @@ input[type="checkbox"]:checked::after {
 
 label,input {
     display:block;
+    padding:5px;
 
+}
+
+.contact-form {
+    border:2px solid black;
 }
 
 
