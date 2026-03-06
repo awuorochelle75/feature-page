@@ -88,6 +88,8 @@ label {
 
 
 
+
+
 .contact-form {
     border:2px solid black;
     box-shadow: 3px 4px 5px gray;
@@ -110,6 +112,12 @@ label {
     font-style:oblique ;
  }
 
+ textarea {
+    display:block;
+    margin-top:5px;
+    width:40%;
+    height:70px;
+ }
 
 
 
