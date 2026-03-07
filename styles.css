@@ -148,3 +148,20 @@ label {
     color:darkgreen;
 }
 
+.a-web {
+    text-decoration: none;
+    background-color: goldenrod;
+    display:block;
+    width:20%;
+    padding:5px;
+    margin: auto;
+    border-radius: 5px;
+    color:white;
+}
+
+.a-web:hover {
+    cursor: pointer;
+    background-color: darkgreen;
+    color:white;
+}
+
