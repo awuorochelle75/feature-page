@@ -129,7 +129,8 @@ label {
 
  .services-card {
     background-color: white;
-    
+    width:40%;
+    margin:15px;
 
  }
 
