@@ -132,6 +132,7 @@ label {
     width:40%;
     margin:15px;
     border-radius:5px;
+    display:inline-block;
 
  }
 .course-img {
