@@ -137,7 +137,14 @@ label {
 .course-img {
     width:100%;
     height:300px;
-
 }
 
+.web-course {
+    text-align:center;
+    padding:10px;
+}
+
+.h-web {
+    color:darkgreen;
+}
 
