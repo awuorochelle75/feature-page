@@ -186,9 +186,10 @@ label {
 }
 
 .footer-links {
-    
+   text-decoration: none; 
    display:flex;
    justify-content: center;
    flex-direction: row;
+   gap:10px;
    
 }
