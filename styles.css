@@ -240,3 +240,10 @@ label {
 
 }
 
+.hero-btn:hover {
+    cursor: pointer;
+    background-color: darkgreen;
+    color:white;
+
+}
+
